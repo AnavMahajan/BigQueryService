@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mm/YG4gj/slOWHb3ZkjmLdbFskpHsUyQj916pBYSvH0=",
+  "Source": "BigQueryService",
+  "BasePath": "_content/BigQueryService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
